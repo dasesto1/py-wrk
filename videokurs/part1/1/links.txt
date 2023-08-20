@@ -1,0 +1,3 @@
+https://www.python.org/
+https://www.python.org/downloads/release/python-380/
+https://www.jetbrains.com/ru-ru/pycharm/
